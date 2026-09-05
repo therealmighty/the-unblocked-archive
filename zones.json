@@ -1,0 +1,18 @@
+[
+  {
+    "id": "buckshot-roulette",
+    "name": "Buckshot Roulette",
+    "url": "zones/buckshot-roulette/index.html",
+    "image": "assets/images/buckshot.jpg",
+    "featured": true,
+    "tags": ["Action", "Strategy"]
+  },
+  {
+    "id": "celeste",
+    "name": "Celeste",
+    "url": "https://example.com/embed/celeste",
+    "image": "assets/images/celeste.png",
+    "featured": false,
+    "tags": ["Platformer"]
+  }
+]
